@@ -1,13 +1,4 @@
 int->String   -------String.valueOf(int a)
-
 String->int--------Integer.parseInt(String s)
-
-char[]->String-------String(ch)-------
-
-String->char[]--------str.toCharArray()
-
-byte[]->String-------String(by)---
-
-String->byte[]---------str.getBytes()-----
 
 
